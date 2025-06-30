@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "de.syntax_institut.jetpack.a04jpcprojektwoche"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "de.syntax_institut.jetpack.a04jpcprojektwoche"

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">04 JPC Projektwoche</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="basket">Basket</string>
+    <string name="account">Account</string>
+    <string name="categories">Categories</string>
+    <string name="app_rating">%.1f ✭</string>
+    <string name="action">Action</string>
+    <string name="communication">Communication</string>
+    <string name="containment">Containment</string>
+    <string name="navigation">Navigation</string>
+    <string name="selection">Selection</string>
+    <string name="components">Components</string>
+    <string name="favorites">Favorites</string>
+    <string name="items">Items</string>
+    <string name="item_detail">Item Detail</string>
+</resources>
